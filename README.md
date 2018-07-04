@@ -1,4 +1,10 @@
-## React Native Auth Screens
+# React Native Auth Screens
+
+## How to run
+- clone this repo
+- run `yarn` or `npm install` to load dependencies.
+- run `react-native run-ios` to run app in emulator.
+
 
 # screenshots below
 
