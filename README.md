@@ -2,5 +2,5 @@
 
 # screenshots below
 
-<img src='screeshots/screenshot1.png'>
-<img src='screeshots/screenshot2.png'>
+<img src='screenshots/screenshot1.png'>
+<img src='screenshots/screenshot2.png'>
